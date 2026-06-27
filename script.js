@@ -5,7 +5,7 @@ const options = {
     headers: {
         "Content-Type": "application/json",
         "x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com",
-        "x-rapidapi-key": "YOUR_NEW_API_KEY"
+        "x-rapidapi-key": "c61def0a40msh359226a0537c402p13f402jsn2b2815a36304"
     }
 };
 
